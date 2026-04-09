@@ -4,6 +4,11 @@
 
 This project analyzes bank loan data to evaluate financial performance, customer behavior, and risk factors using an interactive Excel dashboard.
 
+#Dashboard Overview:
+![Dashboard](https://github.com/Rajkumarthombare/Financial_loan_Project/blob/main/summary.png)
+![Dashboard](https://github.com/Rajkumarthombare/Financial_loan_Project/blob/main/overview.png)
+![Dashboard](https://github.com/Rajkumarthombare/Financial_loan_Project/blob/main/filter%20in%20summary.png)
+![Dashboard](https://github.com/Rajkumarthombare/Financial_loan_Project/blob/main/filter%20in%20overview.png)
  🔍 Key Insights
 
 * Total Loan Applications: 38.6K
